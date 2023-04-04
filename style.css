@@ -1,1 +1,13 @@
+:root {
+    --preto-azul: #022B3A;
+    --azul: #1F7A8C;
+    --azul-bebe: #BFDBF7;
+}
 
+.cabecalho{
+    background-color: var(--preto-azul);
+}
+
+.logo{
+    width:  10%;
+}
